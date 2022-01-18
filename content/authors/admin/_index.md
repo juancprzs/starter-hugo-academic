@@ -26,14 +26,14 @@ organizations:
     name: Uniandes
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Computer Science, 2020-present
       institution: KAUST/Uniandes
       year: ""
-    - course: M.Sc. in Biomedical Engineering
-      institution: Universidad de los Andes
+    - course: M.Sc. in Biomedical Engineering, 2017-2019
+      institution: Uniandes
       year: ""
-    - course: B.Sc. in Biomedical Engineering (cum laude)
-      institution: Universidad de los Andes
+    - course: B.Sc. in Biomedical Engineering (cum laude), 2013-2017
+      institution: Uniandes
       year: ""
 superuser: true
 highlight_name: true
