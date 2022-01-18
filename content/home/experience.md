@@ -22,19 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Ph.D. student
+    company: KAUST/Uniandes
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: logo-KAUST
+    location: Saudi Arabia
+    date_start: '2020-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Research on the robustness of deep learning.
 
   - title: Graduate Research Assistant
     company: Universidad de los Andes
@@ -43,7 +38,7 @@ experience:
     location: Bogotá, Colombia
     date_start: '2019-08-01'
     date_end: '2020-06-30'
-    description: Research on harnessing Deep Learning for image segmentation based on natural language, and adversarial robustness. Under the supervision of Professor Pablo Arbeláez.
+    description: Research on harnessing deep learning for image segmentation based on natural language, and adversarial robustness. Under the supervision of Professor Pablo Arbeláez.
         
   - title: Graduate Research Assistant
     company: Universidad de los Andes
@@ -61,7 +56,7 @@ experience:
     location: Bogotá, Colombia
     date_start: '2017-08-01'
     date_end: '2020-01-31'
-    description: Leading engineer in charge of the design and implementation of a Machine Learning system for one of Colombia’s largest banks.
+    description: Leading engineer in charge of the design and implementation of a machine learning system for one of Colombia’s largest banks.
 
 design:
   columns: '2'
