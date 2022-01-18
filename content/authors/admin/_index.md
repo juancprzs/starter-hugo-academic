@@ -42,4 +42,4 @@ email: ""
 ---
 Juan C. Perez is a Ph.D. student of Computer Vision at *KAUST* (Saudi Arabia) and *Uniandes* (Colombia). His research interests include robustness of deep learning models and how robustness-oriented paradigms can be harnessed for downstream applications. He is a member of [IVUL](http://ivul.kaust.edu.sa) (Image and Video Understanding Laboratory) at KAUST, and [BCV](https://biomedicalcomputervision.uniandes.edu.co) (Biomedical Computer Vision) at Uniandes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV-English-JCP.pdf" "newtab" >}}resumé{{< /staticref >}}.
