@@ -53,6 +53,15 @@ experience:
     date_start: '2017-08-01'
     date_end: '2019-07-31'
     description: Research on the diagnosis and attention provided to strokes in Colombia, sponsored by a Colciencias’ grant. Worked on data handling and web development. Under the supervision of Professor Antonio Salazar.
+    
+  - title: Machine Learning Engineer
+    company: Tecnología y Gerencia
+    company_url: 'https://www.tecnologiaygerencia.com'
+    company_logo: logo-tyg
+    location: Bogotá, Colombia
+    date_start: '2017-08-01'
+    date_end: '2020-01-31'
+    description: Leading engineer in charge of the design and implementation of a Machine Learning system for one of Colombia’s largest banks.
 
 design:
   columns: '2'
