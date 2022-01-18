@@ -35,6 +35,15 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+
+  - title: Graduate Research Assistant
+    company: Universidad de los Andes
+    company_url: 'https://uniandes.edu.co'
+    company_logo: logo-uniandes
+    location: Bogotá, Colombia
+    date_start: '2019-08-01'
+    date_end: '2020-06-30'
+    description: Research on harnessing Deep Learning for image segmentation based on natural language, and adversarial robustness. Under the supervision of Professor Pablo Arbeláez.
         
   - title: Graduate Research Assistant
     company: Universidad de los Andes
