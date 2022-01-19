@@ -1,8 +1,7 @@
 ---
 role: Ph.D. Student
 avatar_filename: avatar.jpg
-bio: Broadly, my (current) research interests revolve around the robustness of
-  deep learning.
+bio: Ph.D. student broadly interested in Computer Vision and Deep Learning.
 interests:
   - Deep Learning
   - Computer Vision
@@ -40,6 +39,6 @@ highlight_name: true
 title: Juan C. Pérez
 email: ""
 ---
-I am a Ph.D. student in Computer Vision at *KAUST* (Saudi Arabia) and *Uniandes* (Colombia). My research interests include robustness of deep learning models and how robustness-oriented paradigms can be harnessed for downstream applications. I'm a member of [IVUL](http://ivul.kaust.edu.sa) (Image and Video Understanding Laboratory) at KAUST, and [BCV](https://biomedicalcomputervision.uniandes.edu.co) (Biomedical Computer Vision) at Uniandes.
+I am a Ph.D. student in Computer Vision at *[KAUST](https://www.kaust.edu.sa/en)* (Saudi Arabia) and *[Uniandes](https://uniandes.edu.co)* (Colombia). I am supervised by Professors [Bernard Ghanem](https://www.bernardghanem.com) and [Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es). In research, I am interested in the robustness of deep learning models, and how robustness paradigms can be harnessed for other purposes. I'm a member of [IVUL](http://ivul.kaust.edu.sa) (Image and Video Understanding Laboratory) at KAUST, and [BCV](https://biomedicalcomputervision.uniandes.edu.co) (Biomedical Computer Vision) at Uniandes. Previously, I completed a B.Sc. and M.Sc. in Biomedical Engineering at Uniandes. My advisor during my master's was Professor Pablo Arbeláez.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-English-JCP.pdf" "newtab" >}}resumé{{< /staticref >}}.
