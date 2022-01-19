@@ -125,7 +125,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-11-11"
-  description: "For the paper 'A Hierarchical Assessment of Adversarial Severity'"
+  description: "Link to the paper: [A Hierarchical Assessment of Adversarial Severity](https://openaccess.thecvf.com/content/ICCV2021W/AROW/papers/Jeanneret_A_Hierarchical_Assessment_of_Adversarial_Severity_ICCVW_2021_paper.pdf), Jeanneret, Pérez and Arbeláez."
   organization: Workshop on Adversarial Robustness In the Real World @ ICCV-21
   organization_url: https://iccv21-adv-workshop.github.io
   title: Best Paper Award
