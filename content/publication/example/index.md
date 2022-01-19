@@ -1,12 +1,12 @@
 ---
 title: Rethinking Clustering for Robustness
 authors:
-  - Alfarra
+  - Motasem Alfarra
   - admin
-  - Bibi
-  - Thabet
-  - Arbeláez
-  - Ghanem
+  - Adel Bibi
+  - Ali Thabet
+  - Pablo Arbeláez
+  - Bernard Ghanem
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -27,7 +27,7 @@ abstract: "This paper studies how encouraging semantically-aligned features
 tags: []
 projects: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://www.bmvc2021-virtualconference.com/assets/papers/0424.pdf"
 publication_types:
   - "1"
 image:
@@ -38,7 +38,7 @@ image:
 summary: ""
 url_dataset: ""
 url_project: ""
-url_source: ""
+url_source: "https://github.com/rethinking-clustering-for-robustness"
 url_video: ""
 publication: In *British Machine Vision Conference*
 featured: true
