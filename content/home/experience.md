@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: Research on computer vision and deep learning.
     
-  - title: Intern with the Visiting Student Research Program
+  - title: Intern at the Visiting Student Research Program
     company: King Abdullah University of Science and Technology
     company_url: 'https://www.kaust.edu.sa/en'
     company_logo: logo-KAUST
