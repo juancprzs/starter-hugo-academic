@@ -103,6 +103,24 @@ item:
   organization_url: https://www.icfes.gov.co/web/guest
   title: Top-scoring country-wide test on engineering
   url: ""
+  
+- certificate_url: ""
+  date_end: ""
+  date_start: "2016-01-01"
+  description: ""
+  organization: Asociación De Egresados de la Universidad de los Andes (Uniandinos)
+  organization_url: https://www.uniandinos.org.co
+  title: Academic Excellence scholarship
+  url: ""
+  
+- certificate_url: ""
+  date_end: ""
+  date_start: "2017-01-01"
+  description: ""
+  organization: Asociación De Egresados de la Universidad de los Andes (Uniandinos)
+  organization_url: https://www.uniandinos.org.co
+  title: Academic Excellence scholarship
+  url: ""
 
 design:
   columns: '2' 
