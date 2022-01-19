@@ -68,12 +68,30 @@ item:
   title: Outstanding Reviewer
   url: ""
   
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-12-06"
+  description: ""
+  organization: Advances on Neural Information Processing Systems (NeurIPS) - 2020
+  organization_url: https://nips.cc/Conferences/2020
+  title: Top 10% of "High-scoring Reviewers"
+  url: ""
+  
 - certificate_url: https://cvpr2021.thecvf.com/node/184
   date_end: ""
   date_start: "2021-06-19"
   description: ""
   organization: Conference on Computer Vision and Pattern Recognition (CVPR) - 2021
   organization_url: https://cvpr2021.thecvf.com
+  title: Outstanding Reviewer
+  url: ""
+  
+- certificate_url: https://iccv2021.thecvf.com/outstanding-reviewers
+  date_end: ""
+  date_start: "2021-10-11"
+  description: ""
+  organization: International Conference on Computer Vision (ICCV) - 2021
+  organization_url: https://iccv2021.thecvf.com/home
   title: Outstanding Reviewer
   url: ""
 
