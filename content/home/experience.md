@@ -26,10 +26,19 @@ experience:
     company: KAUST/Uniandes
     company_url: ''
     company_logo: logo-KAUST
-    location: Saudi Arabia
-    date_start: '2020-01-01'
+    location: Thuwal, Saudi Arabia
+    date_start: '2021-01-01'
     date_end: ''
-    description: Research on the robustness of deep learning.
+    description: Research on computer vision and deep learning.
+    
+  - title: Intern with the Visiting Student Research Program
+    company: King Abdullah University of Science and Technology
+    company_url: 'https://www.kaust.edu.sa/en'
+    company_logo: logo-KAUST
+    location: Thuwal, Saudi Arabia
+    date_start: '2020-05-01'
+    date_end: '2020-12-31'
+    description: Research on the adversarial robustness of deep neural networks. Supervised by Professor Bernard Ghanem.
 
   - title: Graduate Research Assistant
     company: Universidad de los Andes
@@ -38,7 +47,7 @@ experience:
     location: Bogotá, Colombia
     date_start: '2019-08-01'
     date_end: '2020-06-30'
-    description: Research on harnessing deep learning for image segmentation based on natural language, and adversarial robustness. Under the supervision of Professor Pablo Arbeláez.
+    description: Research on harnessing deep learning for image segmentation based on natural language, and adversarial robustness. Supervised by Professor Pablo Arbeláez.
         
   - title: Graduate Research Assistant
     company: Universidad de los Andes
@@ -47,7 +56,7 @@ experience:
     location: Bogotá, Colombia
     date_start: '2017-08-01'
     date_end: '2019-07-31'
-    description: Research on the diagnosis and attention provided to strokes in Colombia, sponsored by a Colciencias’ grant. Worked on data handling and web development. Under the supervision of Professor Antonio Salazar.
+    description: Research on the diagnosis and attention provided to strokes in Colombia, sponsored by a Colciencias’ grant. Worked on data handling and web development. Supervised by Professor Antonio Salazar.
     
   - title: Machine Learning Engineer
     company: Tecnología y Gerencia
