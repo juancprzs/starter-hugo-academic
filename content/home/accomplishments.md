@@ -115,7 +115,7 @@ item:
   
 - certificate_url: ""
   date_end: ""
-  date_start: "2017"
+  date_start: "2017-01-01"
   description: ""
   organization: Asociación De Egresados de la Universidad de los Andes (Uniandinos)
   organization_url: https://www.uniandinos.org.co
