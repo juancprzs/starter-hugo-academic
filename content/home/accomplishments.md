@@ -125,7 +125,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-11-11"
-  description: ""
+  description: "For the paper 'A Hierarchical Assessment of Adversarial Severity'"
   organization: Workshop on Adversarial Robustness In the Real World @ ICCV-21
   organization_url: https://iccv21-adv-workshop.github.io
   title: Best Paper Award
