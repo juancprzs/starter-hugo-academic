@@ -27,24 +27,24 @@ abstract: "This paper studies how encouraging semantically-aligned features
 tags: []
 projects: []
 slides: ""
-url_pdf: "https://www.bmvc2021-virtualconference.com/assets/papers/0424.pdf"
+url_pdf: https://www.bmvc2021-virtualconference.com/assets/papers/0424.pdf
 publication_types:
   - "1"
 image:
   caption: ""
-  focal_point: ""
+  focal_point: right
   preview_only: false
   filename: featured.png
 summary: ""
 url_dataset: ""
 url_project: ""
-url_source: "https://github.com/clustr-official-account/Rethinking-Clustering-for-Robustness"
+url_source: https://github.com/clustr-official-account/Rethinking-Clustering-for-Robustness
 url_video: ""
 publication: In *British Machine Vision Conference*
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2022-01-19T10:53:02.683Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
