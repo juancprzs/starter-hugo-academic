@@ -38,7 +38,7 @@ image:
 summary: ""
 url_dataset: ""
 url_project: ""
-url_source: "https://github.com/rethinking-clustering-for-robustness"
+url_source: "https://github.com/clustr-official-account/Rethinking-Clustering-for-Robustness"
 url_video: ""
 publication: In *British Machine Vision Conference*
 featured: true
