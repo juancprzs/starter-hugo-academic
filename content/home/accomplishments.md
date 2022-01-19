@@ -31,6 +31,24 @@ item:
   organization_url: https://www.coursera.org
   title: Mathematical Thinking in Computer Science
   url: ""
+  
+- certificate_url: https://coursera.org/share/e27758033cc6e7ecbe480263e31e6a96
+  date_end: ""
+  date_start: "2020-11-30"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Combinatorics and Probability
+  url: ""
+  
+- certificate_url: https://coursera.org/share/44e13c752a1390c7d2b9e56d23f6de0c
+  date_end: ""
+  date_start: "2020-12-03"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Introduction to Graph Theory
+  url: ""
 
 design:
   columns: '2' 
