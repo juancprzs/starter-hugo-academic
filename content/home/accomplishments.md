@@ -49,6 +49,15 @@ item:
   organization_url: https://www.coursera.org
   title: Mathematical Thinking in Computer Science
   url: ""
+  
+- certificate_url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8954223
+  date_end: ""
+  date_start: "2019-06-16"
+  description: ""
+  organization: CVPR
+  organization_url: https://cvpr2019.thecvf.com
+  title: Outstanding Reviewer
+  url: ""
 
 design:
   columns: '2' 
