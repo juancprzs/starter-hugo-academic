@@ -121,6 +121,15 @@ item:
   organization_url: https://www.uniandinos.org.co
   title: Academic Excellence scholarship
   url: ""
+  
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-11-11"
+  description: ""
+  organization: Workshop on Adversarial Robustness In the Real World @ ICCV-21
+  organization_url: https://iccv21-adv-workshop.github.io
+  title: Best Paper Award
+  url: ""
 
 design:
   columns: '2' 
