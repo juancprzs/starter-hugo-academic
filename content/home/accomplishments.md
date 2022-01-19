@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://coursera.org/share/15cffff1c783bac147bf6ddbbdd24f56
+- certificate_url: https://coursera.org/share/44e13c752a1390c7d2b9e56d23f6de0c
   date_end: ""
-  date_start: "2020-11-23"
+  date_start: "2020-12-03"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Mathematical Thinking in Computer Science
+  title: Introduction to Graph Theory
   url: ""
   
 - certificate_url: https://coursera.org/share/e27758033cc6e7ecbe480263e31e6a96
@@ -40,14 +40,14 @@ item:
   organization_url: https://www.coursera.org
   title: Combinatorics and Probability
   url: ""
-  
-- certificate_url: https://coursera.org/share/44e13c752a1390c7d2b9e56d23f6de0c
+
+- certificate_url: https://coursera.org/share/15cffff1c783bac147bf6ddbbdd24f56
   date_end: ""
-  date_start: "2020-12-03"
+  date_start: "2020-11-23"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Introduction to Graph Theory
+  title: Mathematical Thinking in Computer Science
   url: ""
 
 design:
